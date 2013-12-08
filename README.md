@@ -2,6 +2,6 @@
 
 This is the pinteresting sample application.
 
-Yo
+This is the second time I'm doing this! 
 
 by: Panpan Wang
